@@ -1,3 +1,8 @@
+// Name: Sayed Mohaiminul Haque
+// Email: mohaiminul.shu.cse@gmail.com
+// Sheikh Hasina University.
+
+
 #include <iostream>
 #include<fstream>
 #include<string.h>
